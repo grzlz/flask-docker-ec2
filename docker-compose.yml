@@ -1,5 +1,5 @@
 version: '3'
-
+a
 services: 
   flaskapp:
     build: './flaskapp-docker'
